@@ -241,12 +241,13 @@ PhysicsLens is a real-time visualization system that helps users understand phys
 
 
 ## Additional Links
+- [DesignXR Hackathon](https://designxr.devpost.com/)
 - [DevStudio 2026 by Logitech Hackathon](https://devstudiologitech2026.devpost.com/)
 - [MR Blueprint – Original Pitch Submission](https://devpost.com/software/mr-blueprint-draw-physics-into-reality)
 - [MR Blueprint – Semifinalist Submission](https://devpost.com/software/mr-blueprint-draw-physics-into-reality-g1r50h?ref_content=my-projects-tab&ref_feature=my_projects)
 
 
 ## Project Milestones
-Winner - [DesignXR Hackathon](https://devpost.com/software/mr-blueprint)
-Semifinalist - [Devstudio 2026 by Logitech Hackathon](https://devpost.com/software/mr-blueprint-draw-physics-into-reality-g1r50h?ref_content=my-projects-tab&ref_feature=my_projects)  
+- Winner - [DesignXR Hackathon](https://devpost.com/software/mr-blueprint)
+- Semifinalist - [Devstudio 2026 by Logitech Hackathon](https://devpost.com/software/mr-blueprint-draw-physics-into-reality-g1r50h?ref_content=my-projects-tab&ref_feature=my_projects)  
 
